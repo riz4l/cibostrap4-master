@@ -64,7 +64,7 @@
     <script src="<?php echo base_url()?>assets/bootstrap-datetimepicker/js/tempusdominus-bootstrap-4.min.js"></script>
     <!-- Core plugin JavaScript-->
     <script src="<?php echo base_url('assets/jquery-easing/jquery.easing.min.js')?>"></script>
-    <script src="<?php echo base_url('assets/chartjs/chart.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/chartjs/Chart.min.js')?>"></script>
     <script src="<?php echo base_url('assets/datatables/jquery.dataTables.js')?>"></script>
     <script src="<?php echo base_url('assets/datatables/dataTables.bootstrap4.js')?>"></script>
     <!-- Custom scripts for all pages-->
