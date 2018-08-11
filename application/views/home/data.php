@@ -10,7 +10,7 @@
       <!-- Icon Cards-->
       <div class="row">
         <div class="col-xl-12">
-          <h3>Codeigniter 3 with Bootstrap 4 Integration Master</h3>
+          <center><h3>Codeigniter 3 with Bootstrap 4 Integration Master</h3></center>
           <hr>
         </div>
       </div>

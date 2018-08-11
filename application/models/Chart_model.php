@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('no direct script access allowed');
 
-class  Chart_model extends CI_Model	{
+class Chart_model extends CI_Model	{
 
 
 	public function get_data_stok(){
